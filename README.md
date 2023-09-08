@@ -1,14 +1,13 @@
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXBzcHFza2pyczdnbHBraGNjbzU1cWJ2MG1pMGRyZmVmano2NzVpZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
   <div id="badges" align='center'>
-    <a href="https://www.linkedin.com/in/elliotchang126/">
+    <a href="https://www.linkedin.com/in/elliotchang126/" target='_blank'>
       <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
     </a>
-        <a href="mailto:elliotchang126@gmail.com">
+    <a href="mailto:elliotchang126@gmail.com" target='_blank'>
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-        </a>
-        <a href="https://wellfound.com/u/elliot-chang-2">
+    <a href="https://wellfound.com/u/elliot-chang-2" target='_blank'>
       <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" alt="AngelList Badge"/>
     </a>
   </div>
