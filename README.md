@@ -7,7 +7,7 @@
     <a href="mailto:elliotchang126@gmail.com" target='_blank'>
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
     </a>
-    <a href="https://wellfound.com/u/elliot-chang-2" target='_blank'>
+    <a href="https://wellfound.com/u/elliotchang126" target='_blank'>
       <img src="https://img.shields.io/badge/AngelList-%23D4D4D4.svg?style=for-the-badge&logo=AngelList&logoColor=black" alt="AngelList Badge"/>
     </a>
   </div>
