@@ -19,7 +19,7 @@
 
   I'm a full stack engineer traveling between Los Angeles, CA and San Francisco, CA, specializing in React/Redux, Javascript and Rails.
   
-  - I just recently completed a collaborative project, Reps 'N' Recipes. It's an all-in-one fitness and nutrition tracker built on the MERN stack with 2 other collaborators. Go check it out in my pinned repos!
+  - I just recently completed a collaborative project, Reps 'N' Recipes. It's an all-in-one fitness and nutrition tracker built on the MERN stack with 2 other engineers. Go check it out in my pinned repos!
   - Another project I recently made is Clonebnb. It's clone of Airbnb built on React/Redux frontend with a Rails backend, complete with CRUD features, user auth, and Google Maps API integration. Also in my pinned repos!
   - Currently looking for more open-source projects to contribute to. Feel free to reach out if you're interested in collaborating.
   - I'm currently brushing up on DS & A and working on some side projects, but in my downtime I can be found in the gym or hanging out with my husky, Winter.
