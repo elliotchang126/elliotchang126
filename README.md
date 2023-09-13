@@ -15,7 +15,7 @@
   
 ---
 
-<h1 align='center'>Hey 👋! I'm Elliot!</h1>
+<h1 align='center'>Hey! I'm Elliot! 👋</h1>
 
   I'm a full stack software engineer traveling between Los Angeles and San Francisco, specializing in React/Redux, Javascript and Rails.
   
