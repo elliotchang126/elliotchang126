@@ -17,12 +17,12 @@
 
 <h1 align='center'>Hey! I'm Elliot! 👋</h1>
 
-  I'm a full stack software engineer traveling between Los Angeles and San Francisco, specializing in React/Redux, Javascript and Rails.
+  I'm a software engineer at Cubeship in Los Angeles, CA specializing in React/Redux, Javascript, TypeScript, and Ruby on Rails.
   
   - I just recently completed a collaborative project, Reps 'N' Recipes. It's an all-in-one fitness and nutrition tracker built on the MERN stack with 2 other engineers. Go check it out in my pinned repos!
-  - Another project I recently made is Clonebnb. It's clone of Airbnb built on React/Redux frontend with a Rails backend, complete with CRUD features, user auth, and Google Maps API integration. Also in my pinned repos!
-  - Currently looking for more open-source projects to contribute to. Feel free to reach out if you're interested in collaborating.
-  - I'm currently brushing up on DS & A and working on my project: Netly, but in my downtime I can be found in the gym or hanging out with my husky, Winter.
+  - Another project I recently made is Clonebnb. It's clone of Airbnb built on React/Redux frontend with a Rails backend, complete with CRUD features, user authentication, and Google Maps API integration. Also in my pinned repos!
+  - I'd love to find open-source projects to contribute to. Feel free to reach out if you're interested in collaborating.
+  - I'm currently learning C#, but in my downtime I can be found in the gym or hanging out with my husky, Winter.
 
 I'm currently open to Full-Stack, Backend, or Frontend jobs in Los Angeles, San Francisco, Austin, New York, or remote!
   
