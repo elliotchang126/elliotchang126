@@ -54,7 +54,13 @@ I'm currently open to Full-Stack, Backend, or Frontend jobs in Los Angeles, San 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elliotchang126&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+<!--[![Elliot's GitHub stats](https://github-readme-stats.vercel.app/api?username=elliotchang126&show_icons=true&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+-->
 </div>
+
+
 
 <!--
 **elliotchang126/elliotchang126** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
